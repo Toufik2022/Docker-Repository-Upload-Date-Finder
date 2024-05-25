@@ -1,5 +1,8 @@
 # Docker-Repository-Upload-Date-Finder
-Docker-Repository-Upload-Date-Finder using express js just enter repo name or url
+Docker-Repository-Upload-Date-Finder using express js
+
+just enter repo name or url
+
 install node.js download my code to folder and 
 
 run 
