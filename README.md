@@ -9,7 +9,7 @@ run
 
 npm install express cheerio puppeteer
 
-and run node gs.js
+and run node Docker.js
 
 then open localhost:3000
 
